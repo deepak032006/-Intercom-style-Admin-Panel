@@ -2,15 +2,13 @@
 
 This project is a modern, responsive **chat admin dashboard** inspired by Intercom, built as part of an internship assignment for **BeyondChats**.
 
-![Preview](https://your-screenshot-link-if-available)
-
 ---
 
 ## 🚀 Live Demo
 
-🌐 [View Live on Vercel](https://your-vercel-deployment.vercel.app)
+🌐 [View Live on Vercel](https://intercom-style-admin-panel-8wmy-deepaks-projects-f6921726.vercel.app/)
 
-📂 [View Code on GitHub](https://github.com/your-username/intercom-admin-panel)
+📂 [View Code on GitHub](https://github.com/deepak032006/-Intercom-style-Admin-Panel)
 
 ---
 
