@@ -1,6 +1,4 @@
 import { useState, useEffect } from 'react';
-import Picker from '@emoji-mart/react';
-import data from '@emoji-mart/data';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export default function ChatWindow() {
@@ -70,12 +68,6 @@ export default function ChatWindow() {
           </div>
         )}
         <div className="flex items-center">
-          <button
-            onClick={() => setShowEmojiPicker(!showEmojiPicker)}
-            className="mr-2 text-lg"
-          >
-            😀
-          </button>
           <input
             type="text"
             placeholder="Type a message..."
